@@ -1,0 +1,73 @@
+Time elapsed: 1.404203, for N0m2td7rn
+Time elapsed: 2.358883, for Q0m2td7rn 
+Time elapsed: 1.330170, for F0m2td7rn
+Time elapsed: 1.533979, for N0m3td7rn 
+Time elapsed: 2.402400, for Q0m3td7rn 
+Time elapsed: 1.442092, for F0m3td7rn
+Time elapsed: 1.591228, for N0m5td7rn 
+Time elapsed: 2.502812, for Q0m5td7rn 
+Time elapsed: 1.564153, for F0m5td7rn
+Time elapsed: 1.638927, for N0m8td7rn 
+Time elapsed: 2.566984, for Q0m8td7rn 
+Time elapsed: 1.608575, for F0m8td7rn 
+Time elapsed: 1.378153, for N1m2td7rn 
+Time elapsed: 1.517248, for Q1m2td7rn 
+Time elapsed: 1.294592, for F1m2td7rn 
+Time elapsed: 1.552954, for N1m3td7rn 
+Time elapsed: 1.618743, for Q1m3td7rn 
+Time elapsed: 1.372183, for F1m3td7rn
+Time elapsed: 2.007665, for N1m5td7rn 
+Time elapsed: 1.917355, for Q1m5td7rn 
+Time elapsed: 1.467081, for F1m5td7rn
+Time elapsed: 4.541471, for N1m8td7rn
+Time elapsed: 2.186361, for Q1m8td7rn 
+Time elapsed: 1.417244, for F1m8td7rn 
+Time elapsed: 2.129268, for N2m2td7rn 
+Time elapsed: 2.392094, for Q2m2td7rn 
+Time elapsed: 1.951860, for F2m2td7rn 
+Time elapsed: 2.171310, for N2m3td7rn 
+Time elapsed: 2.480808, for Q2m3td7rn
+Time elapsed: 1.926432, for F2m3td7rn 
+Time elapsed: 2.222621, for N2m5td7rn 
+Time elapsed: 2.510658, for Q2m5td7rn 
+Time elapsed: 1.949577, for F2m5td7rn 
+Time elapsed: 2.233274, for N2m8td7rn 
+Time elapsed: 2.470267, for Q2m8td7rn 
+Time elapsed: 1.993804, for F2m8td7rn 
+Time elapsed: 1.407241, for N3m2td7rn 
+Time elapsed: 1.762240, for Q3m2td7rn
+Time elapsed: 1.304616, for F3m2td7rn 
+Time elapsed: 1.541908, for N3m3td7rn 
+Time elapsed: 1.868264, for Q3m3td7rn
+Time elapsed: 1.388464, for F3m3td7rn 
+Time elapsed: 3.055852, for N3m5td7rn 
+Time elapsed: 2.151881, for Q3m5td7rn 
+Time elapsed: 1.593683, for F3m5td7rn 
+Time elapsed: 10.975479, for N3m8td7rn 
+Time elapsed: 4.093462, for Q3m8td7rn 
+Time elapsed: 1.863327, for F3m8td7rn 
+Time elapsed: 4.053057, for N4m2td7rn 
+Time elapsed: 4.159573, for Q4m2td7rn 
+Time elapsed: 3.894309, for F4m2td7rn 
+Time elapsed: 4.267035, for N4m3td7rn 
+Time elapsed: 4.389669, for Q4m3td7rn 
+Time elapsed: 4.049437, for F4m3td7rn 
+Time elapsed: 6.246131, for N4m5td7rn 
+Time elapsed: 5.040674, for Q4m5td7rn 
+Time elapsed: 4.074076, for F4m5td7rn 
+Time elapsed: 7.769240, for N4m8td7rn
+Time elapsed: 5.255392, for Q4m8td7rn 
+Time elapsed: 4.055932, for F4m8td7rn 
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,5 +1,7 @@
 *
 
 !*.ipynb
+!*.txt
+
 !*.gitignore
 !*.gitattributes
